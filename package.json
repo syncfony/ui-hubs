@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@aspnet/signalr": "^1.0.2",
+    "@types/node": "^10.5.2"
+  },
+  "devDependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
